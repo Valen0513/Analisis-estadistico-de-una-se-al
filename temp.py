@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Editor de Spyder
-
-Este es un archivo temporal.
-"""
-
+#PRACTICA DE LABORATORIO 1 ANALISIS ESTADISTICO DE LA SEÑAL 
 import wfdb # Libreria para que lea los archivos .hea y .dat
 import matplotlib.pyplot as plt # Libreria para graficar
 import numpy as np #Libreria para sacar las operaciones estadisticas
